@@ -9,14 +9,6 @@
 
 ---
 
-## 📊 My GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=lawliet-ryuzaki07&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lawliet-ryuzaki07&layout=compact&theme=radical)
-
----
-
 ## 🛠️ Tools & Technologies
 
 <p align="left">
